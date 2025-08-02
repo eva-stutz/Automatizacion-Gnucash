@@ -1,5 +1,5 @@
 #Este codigo Funciona en Windows, Mac, Linux sin configuración adicional.
-#en linux activo env en bash:  source pdf_env/bin/activate y luego ejecuto desde bash. 
+#en linux activo env en bash:  source pdf_env/bin/activate. Ir al entorno donde tienes tu archivo, por ejemplo escritorio: cd Escritorio y luego ejecuto desde bash. 
 #!/usr/bin/env python3
 """
 GnuCash Kontenplan Generator - Proffix Real System 🏦
