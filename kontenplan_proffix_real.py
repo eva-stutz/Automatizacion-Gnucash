@@ -1,4 +1,3 @@
-# Aquí copias PARTE 1 + PARTE 2 + PARTE 3 + PARTE 4
 #!/usr/bin/env python3
 """
 GnuCash Kontenplan Generator - Proffix Real System 🏦
@@ -24,8 +23,8 @@ class GnuCashKontenplanReal:
             'aktiven': {
                 'name': 'Aktiven',
                 'type': 'ASSET',
-                'accounts': {  #Dieses Kontoplan gehört der Stiftung Sozialwerke Paz (www.stiftung-pazperu.ch). Wenn du möchtest, kannst sogar an die unter listeten Konten dein Beitrag geben.
-                    # Flüssige Mittel (100) ##estas cuentas pertenecen a la fundacion Sozialwerke Paz: www.stiftung-pazperu.ch  Si quieres hasta puedes colaborar con el proyecto
+                'accounts': {  #Dieses Kontoplan gehört der Stiftung Sozialwerke Paz (www.stiftung-pazperu.ch - www.pazperuong.org). Wenn du möchtest, kannst sogar an die unter listeten Konten dein Beitrag geben.
+                    # Flüssige Mittel (100) ##estas cuentas pertenecen a la fundacion Sozialwerke Paz: www.pazperuong.org - www.stiftung-pazperu.ch  Si quieres hasta puedes colaborar con el proyecto
                     '1000': {'name': 'Kasse', 'currency': 'CHF'},
                     '1020': {'name': 'UBS 296-983505.M1C CHF', 'currency': 'CHF'},  
                     '1022': {'name': 'UBS Stipendien 296-983505 0562 P USD', 'currency': 'USD'},
